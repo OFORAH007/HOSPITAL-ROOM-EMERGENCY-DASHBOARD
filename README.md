@@ -2,7 +2,8 @@
 
 This repository showcases an end-to-end hospital emergency room analytics solution. It was developed using Power BI to monitor patient volume, wait times, satisfaction scores, referral trends, admission statuses, and key demographic patterns.
 
-> **Author:** [Oforah Ivan Chukwudumeje](https://chukwudumejeoforah.carrd.co/) 
+> **Author:** [Oforah Ivan Chukwudumeje](https://chukwudumejeoforah.carrd.co/)
+>
 > **Tool Used:** Power BI Desktop  
 > **Report Period:** Jan 2023 – Dec 2024  
 
