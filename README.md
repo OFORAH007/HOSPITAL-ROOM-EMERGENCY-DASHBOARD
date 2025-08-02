@@ -8,7 +8,7 @@ This repository showcases an end-to-end hospital emergency room analytics soluti
 
 ---
 
-<img width="559" height="281" alt="Screenshot 2025-08-02 091636" src="https://github.com/user-attachments/assets/d2e46a4c-cea7-4f6d-a3d7-12ca68ede37a" />
+<img width="2048" height="831" alt="Gemini_Generated_Image_zfs3xlzfs3xlzfs3" src="https://github.com/user-attachments/assets/63612cb3-a2be-4d8e-b346-2f15cf4a51bc" />
 
 
 ## 🎯 Project Objective
@@ -22,7 +22,7 @@ The goal is to give healthcare administrators a clear, interactive view of emerg
 
 ---
 
-<img width="650" height="233" alt="Screenshot 2025-08-02 091939" src="https://github.com/user-attachments/assets/14ea6bb3-9559-40c9-a321-5925056cf9b0" />
+<img width="2048" height="1007" alt="Gemini_Generated_Image_ta18vnta18vnta18" src="https://github.com/user-attachments/assets/55cf5e95-c706-4ee1-8a26-0d56d19def7d" />
 
 ## 🔧 Tools and Technologies
 
@@ -51,6 +51,11 @@ The goal is to give healthcare administrators a clear, interactive view of emerg
 - Age Group, Gender, and Race Distribution
 - Weekly and Hourly Patient Volume Heatmap
 
+<img width="1485" height="915" alt="Hspital ER-01" src="https://github.com/user-attachments/assets/a7bd6d2a-1f93-4ffa-822d-e0268b3cd9d3" />
+<img width="1489" height="916" alt="Hospital ER-02" src="https://github.com/user-attachments/assets/d0e50851-6d4d-41e6-b980-52df5c95118c" />
+
+<img width="1481" height="914" alt="Hospital ER-03" src="https://github.com/user-attachments/assets/f97f9350-36db-4763-9421-6164172183d0" />
+
 ---
 
 ## 📌 Insights & Highlights
@@ -64,11 +69,7 @@ The goal is to give healthcare administrators a clear, interactive view of emerg
 
 ---
 
-<img width="1485" height="915" alt="Hspital ER-01" src="https://github.com/user-attachments/assets/14c605be-98b6-47cf-b03e-52ca28fb5b6c" />
 
-<img width="1489" height="916" alt="Hospital ER-02" src="https://github.com/user-attachments/assets/81c75f78-986d-40f1-86c9-64dca6b4ef86" />
-
-<img width="1481" height="914" alt="Hospital ER-03" src="https://github.com/user-attachments/assets/07932fc8-0677-409a-9268-86f28335bb92" />
 
 
 ## 🧪 Recommendations
