@@ -2,7 +2,7 @@
 
 This repository showcases an end-to-end hospital emergency room analytics solution. It was developed using Power BI to monitor patient volume, wait times, satisfaction scores, referral trends, admission statuses, and key demographic patterns.
 
-> **Author:** Oforah Ivan  
+> **Author:** [Oforah Ivan Chukwudumeje](https://chukwudumejeoforah.carrd.co/) 
 > **Tool Used:** Power BI Desktop  
 > **Report Period:** Jan 2023 – Dec 2024  
 
@@ -28,9 +28,9 @@ The goal is to give healthcare administrators a clear, interactive view of emerg
 
 | Tool       | Purpose                                  |
 |------------|-------------------------------------------|
-| Power BI   | Report development and data visualization (Download)[https://www.microsoft.com/en-us/download/details.aspx?id=58494] |
-| Excel      | Initial data formatting  (Download)[https://www.microsoft.com/en-us/microsoft-365/excel]       |
-| Github     | Documentation (Access)[https://www.github.com/]  |
+| Power BI   | Report development and data visualization [Download](https://www.microsoft.com/en-us/download/details.aspx?id=58494) |
+| Excel      | Initial data formatting  [Download](https://www.microsoft.com/en-us/microsoft-365/excel)       |
+| Github     | Documentation [Access](https://www.github.com/)  |
 | LinkedIn   | Documentation & Exhibition [Access](https://www.linkedin.com/) |
 
 ---
@@ -86,7 +86,7 @@ Provided technical guidance on dashboard architecture, data modeling, and Power 
 - Few, Stephen. Information Dashboard Design: Displaying Data for At-a-Glance Monitoring. Analytics Press, 2013.
 For visual layout and design principles applied in the Power BI dashboard.
 - Bertsimas, Dimitris & Dunn, Jack. Machine Learning Under a Modern Optimization Lens. Dynamic Ideas LLC, 2019
-- Maven Analytics – Inspired by their Hospital Performance and Patient Flow case studies (Access)[https://www.mavenanalytics.io/]
+- Maven Analytics – Inspired by their Hospital Performance and Patient Flow case studies [Access](https://www.mavenanalytics.io/)
 
 
 
