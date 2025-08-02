@@ -31,7 +31,7 @@ The goal is to give healthcare administrators a clear, interactive view of emerg
 | Power BI   | Report development and data visualization (Download)[https://www.microsoft.com/en-us/download/details.aspx?id=58494] |
 | Excel      | Initial data formatting  (Download)[https://www.microsoft.com/en-us/microsoft-365/excel]       |
 | Github     | Documentation (Access)[https://www.github.com/]  |
-| LinkedIn   | Documentation & Exhibition (Access)[https://www.linkedin.com/] |
+| LinkedIn   | Documentation & Exhibition [Access](https://www.linkedin.com/) |
 
 ---
 
