@@ -8,6 +8,9 @@ This repository showcases an end-to-end hospital emergency room analytics soluti
 
 ---
 
+<img width="559" height="281" alt="Screenshot 2025-08-02 091636" src="https://github.com/user-attachments/assets/d2e46a4c-cea7-4f6d-a3d7-12ca68ede37a" />
+
+
 ## 🎯 Project Objective
 
 The goal is to give healthcare administrators a clear, interactive view of emergency room performance. The dashboard enables quick evaluation of:
@@ -18,6 +21,8 @@ The goal is to give healthcare administrators a clear, interactive view of emerg
 - Patient satisfaction trends across months
 
 ---
+
+<img width="650" height="233" alt="Screenshot 2025-08-02 091939" src="https://github.com/user-attachments/assets/14ea6bb3-9559-40c9-a321-5925056cf9b0" />
 
 ## 🔧 Tools and Technologies
 
@@ -59,35 +64,21 @@ The goal is to give healthcare administrators a clear, interactive view of emerg
 
 ---
 
+<img width="1485" height="915" alt="Hspital ER-01" src="https://github.com/user-attachments/assets/14c605be-98b6-47cf-b03e-52ca28fb5b6c" />
+
+<img width="1489" height="916" alt="Hospital ER-02" src="https://github.com/user-attachments/assets/81c75f78-986d-40f1-86c9-64dca6b4ef86" />
+
+<img width="1481" height="914" alt="Hospital ER-03" src="https://github.com/user-attachments/assets/07932fc8-0677-409a-9268-86f28335bb92" />
+
+
+## 🧪 Recommendations
+Here are 5 recommendations based on the Hospital Emergency Dashboard findings:
+1. Improve Response Time: With only ~59% of patients seen within 30 minutes, hospitals should streamline triage processes and increase staff during peak hours (7–10 AM, 1–4 PM).
+2. Target High-Traffic Days: Weekdays show higher patient flow; shift scheduling should reflect this to reduce wait times and burnout.
+3. Enhance Admission Criteria: Nearly 50% of patients are not admitted—review and refine referral processes to reduce unnecessary ER visits.
+4. Expand General Practice Support: General Practice accounts for the highest referrals; more support in this unit could reduce bottlenecks.
+5. Monitor Demographic Trends: Tailor outreach and care programs to major patient groups (e.g., White and African American populations) to ensure equitable service delivery.
 
 
 
-
-
-
-
-## 🧪 How to Use
-
-1. **Download the PBIX file** from `/dashboards/Hospital_Emergency_Room_Report.pbix`
-2. Open in Power BI Desktop
-3. Use filters to explore:
-    - Date range  
-    - Department referral  
-    - Gender or age group  
-    - Admission status
-
----
-
-## 📁 Repository Structure
-
-```bash
-├── dashboards/
-│   └── Hospital_Emergency_Room_Report.pbix
-├── data/
-│   └── patient_records_sample.csv
-├── insights/
-│   └── insight_summary.md
-├── scripts/
-│   └── time_slot_analysis.py  # Optional, for preprocessing or simulation
-├── README.md
 
