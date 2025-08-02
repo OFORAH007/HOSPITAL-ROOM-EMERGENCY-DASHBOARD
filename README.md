@@ -69,8 +69,7 @@ The goal is to give healthcare administrators a clear, interactive view of emerg
 
 ---
 
-
-
+<img width="2048" height="961" alt="Gemini_Generated_Image_d1cng0d1cng0d1cn" src="https://github.com/user-attachments/assets/0d31ee40-2608-40bd-ac10-a40814123484" />
 
 ## 🧪 Recommendations
 Here are 5 recommendations based on the Hospital Emergency Dashboard findings:
