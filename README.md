@@ -28,10 +28,10 @@ The goal is to give healthcare administrators a clear, interactive view of emerg
 
 | Tool       | Purpose                                  |
 |------------|-------------------------------------------|
-| Power BI   | Report development and data visualization |
-| Excel      | Initial data formatting         |
-| Github     | Documentation   |
-| LinkedIn   | Documenteation & Exhibition |
+| Power BI   | Report development and data visualization (Download)[https://www.microsoft.com/en-us/download/details.aspx?id=58494] |
+| Excel      | Initial data formatting  (Download)[https://www.microsoft.com/en-us/microsoft-365/excel]       |
+| Github     | Documentation (Access)[https://www.github.com/]  |
+| LinkedIn   | Documentation & Exhibition (Access)[https://www.linkedin.com/] |
 
 ---
 
@@ -78,6 +78,15 @@ Here are 5 recommendations based on the Hospital Emergency Dashboard findings:
 3. Enhance Admission Criteria: Nearly 50% of patients are not admitted—review and refine referral processes to reduce unnecessary ER visits.
 4. Expand General Practice Support: General Practice accounts for the highest referrals; more support in this unit could reduce bottlenecks.
 5. Monitor Demographic Trends: Tailor outreach and care programs to major patient groups (e.g., White and African American populations) to ensure equitable service delivery.
+
+
+## 📖 Reference 
+- Swapnjeet S. Lead Data Analyst & Data Engineer
+Provided technical guidance on dashboard architecture, data modeling, and Power BI optimization in the Simulated Dataset created for training purposes, inspired by real emergency room workflows
+- Few, Stephen. Information Dashboard Design: Displaying Data for At-a-Glance Monitoring. Analytics Press, 2013.
+For visual layout and design principles applied in the Power BI dashboard.
+- Bertsimas, Dimitris & Dunn, Jack. Machine Learning Under a Modern Optimization Lens. Dynamic Ideas LLC, 2019
+- Maven Analytics – Inspired by their Hospital Performance and Patient Flow case studies (Access)[https://www.mavenanalytics.io/]
 
 
 
